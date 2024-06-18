@@ -31,7 +31,7 @@ Este projeto realiza a análise de dados de preços de Combustíveis e de GLP au
 ### Clonar o Repositório
 
 ```bash
-git clone [https://github.com/eds0njun1or/pyspark-mongodb-analytics/repo.git](https://github.com/Eds0nJun1or/pyspark-mongodb-analytics.git)
+git clone https://github.com/Eds0nJun1or/pyspark-mongodb-analytics.git
 cd repo
 ```
 
