@@ -7,12 +7,17 @@ Este projeto realiza a análise de dados de preços de Combustíveis e de GLP au
 ## Estrutura do Projeto
 
 ```
-├── .ipynb_checkpoints/
+BIG-SPARK
+├── .ipynb_checkpoints
 │   ├── df_mongo-checkpoint.ipynb
 │   └── df_spark-checkpoint.ipynb
-├── DOCKER-COMPOSE/
+├── DOCKER-COMPOSE
 │   └── docker-compose.yaml
-├── src/
+├── Gráficos
+│   └── (prints dos gráficos plotados no dataset)
+├── relatório-dataset
+│   └── Relatório do Dataset.docx
+├── src
 │   ├── Preços semestrais - AUTOMOTIVOS_2023.02.csv
 ├── df_mongo.ipynb
 ├── df_spark.ipynb
