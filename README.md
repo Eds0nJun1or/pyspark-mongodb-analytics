@@ -7,7 +7,6 @@ Este projeto realiza a análise de dados de preços de Combustíveis e de GLP au
 ## Estrutura do Projeto
 
 ```
-BIG-SPARK
 ├── .ipynb_checkpoints
 │   ├── df_mongo-checkpoint.ipynb
 │   └── df_spark-checkpoint.ipynb
